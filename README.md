@@ -64,6 +64,6 @@ VALUES
 ('10', 'Blessing', 'Mark', 'Blessing.mark@gmail.com', '0803‑123‑0010', 'Uyo');
 </pre>
 
-![image alt](https://github.com/Icemma/SQL_Projects/blob/e5c277c01abe3c27f9d3542032e110c51c4a4cbc/Screenshot%202025-07-25%20155506.png)
+![image alt](https://github.com/jhackie12/SQL.Project/blob/34ae9e2800dae9ed533040ef90bef068f76c3499/Customer%20TB.PNG)
 
 ## Answers to Analytical Questions and Results 
