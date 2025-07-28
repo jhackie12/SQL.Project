@@ -107,7 +107,7 @@ GROUP BY
     c.FirstName, c.LastName, p.ProductName, o.Quantity,p.UnitPrice;
 </pre>
 
-![image alt](https://github.com/Icemma/SQL-Projects/blob/6c540b1e59f96f1da2ec2ae2aea086105372cd7a/Screenshot%202025-07-25%20155206.png)
+![image alt](https://github.com/jhackie12/SQL.Project/blob/774a9c66cb5d06d1379622770434d426e232e60c/EXAM%20ANSWER%203.PNG)
 
 4. Show average sales per product category and sort in descending order
 <pre>
