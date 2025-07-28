@@ -121,7 +121,7 @@ GROUP BY p.Category
 ORDER BY AverageSales DESC;
 </pre>
 
-![image alt](https://github.com/Icemma/SQL-Projects/blob/e79ec3850d68577c85c7355ace41d7afa8966cab/Screenshot%202025-07-25%20155237.png)
+![image alt](https://github.com/jhackie12/SQL.Project/blob/8862ac589e8d4ba6a11a8b7233781fbe62b8fd0c/EXAM%20ANSWER%204.PNG)
 
 5. Which city generated the highest revenue for AxiaStores?
 <pre>
