@@ -78,7 +78,7 @@ join ProductTB p on o.ProductID = p.ProductID
 where p.ProductID=1
 </pre>
 
-![image alt]()
+![image alt](https://github.com/jhackie12/SQL.Project/blob/f7b879dedecb21d00e8de4730c0a27ff5f9680ad/EXAM%20ANSWER%201.PNG)
 
 2. List all customers’ full names in ascending alphabetical order (LastName, then FirstName)
 <pre>
